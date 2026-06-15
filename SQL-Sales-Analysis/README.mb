@@ -1,0 +1,35 @@
+# SQL Sales Analysis
+
+## Overview
+
+Performed sales data analysis using SQL queries to identify revenue trends, top-performing products, customer behavior, and business performance metrics.
+
+## Tools Used
+
+- SQL
+- MySQL / PostgreSQL
+- Joins
+- Aggregate Functions
+- CTEs
+- Window Functions
+
+## Skills Demonstrated
+
+- Data Extraction
+- Data Cleaning
+- Query Optimization
+- Business Analysis
+- KPI Reporting
+
+## Key Analysis
+
+- Total Revenue Analysis
+- Top Selling Products
+- Customer Purchase Behavior
+- Regional Sales Performance
+- Monthly Sales Trends
+
+## Files
+
+- SQL_Queries.sql
+- Project_Report.pdf
