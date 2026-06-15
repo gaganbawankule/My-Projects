@@ -1,35 +1,49 @@
-# SQL Sales Analysis
+# Retail Store SQL Analysis
 
 ## Overview
 
-Performed sales data analysis using SQL queries to identify revenue trends, top-performing products, customer behavior, and business performance metrics.
+Analyzed a retail store database using SQL to understand customer behavior, product performance, order trends, payment patterns, and business performance metrics.
+
+## Database Tables
+
+- Customers
+- Orders
+- Order Items
+- Products
+- Product Reviews
+- Payments
+
+## SQL Skills Demonstrated
+
+- SELECT Statements
+- WHERE Clauses
+- GROUP BY
+- ORDER BY
+- Aggregate Functions
+- Joins
+- Subqueries
+- Business Analysis
+
+## Key Analysis
+
+- Customer purchasing behavior
+- Product performance analysis
+- Revenue insights
+- Payment trends
+- Product review analysis
 
 ## Tools Used
 
 - SQL
-- MySQL / PostgreSQL
-- Joins
-- Aggregate Functions
-- CTEs
-- Window Functions
-
-## Skills Demonstrated
-
-- Data Extraction
-- Data Cleaning
-- Query Optimization
-- Business Analysis
-- KPI Reporting
-
-## Key Analysis
-
-- Total Revenue Analysis
-- Top Selling Products
-- Customer Purchase Behavior
-- Regional Sales Performance
-- Monthly Sales Trends
+- MySQL
+- Database Management
+- Data Analysis
 
 ## Files
 
-- SQL_Queries.sql
-- Project_Report.pdf
+- retail_store_customers.sql
+- retail_store_orders.sql
+- retail_store_order_items.sql
+- retail_store_products.sql
+- retail_store_product_reviews.sql
+- retail_store_payments.sql
