@@ -1,4 +1,4 @@
-# Excel Sales Dashboard
+# Amazon Sales Performance Dashboard
 
 ## Project Overview
 This project focuses on cleaning, transforming, and analyzing sales data using Microsoft Excel. An interactive dashboard was created to provide insights into sales performance and business trends.
