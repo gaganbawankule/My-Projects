@@ -28,5 +28,8 @@ This project focuses on cleaning, transforming, and analyzing sales data using M
 ## Dashboard Preview
 ![Amazon Sales Dashboard](dashboard_overview.png)
 
+## Download Project
+[Download Excel Dashboard](4961376-excel_project.xlsx)
+
 ## Author
 Gagan Bawankule
