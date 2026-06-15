@@ -26,7 +26,7 @@ This project focuses on cleaning, transforming, and analyzing sales data using M
 - Excel Reporting
 
 ## Dashboard Preview
-(Add screenshots here)
+![Amazon Sales Dashboard](dashboard_overview.png)
 
 ## Author
 Gagan Bawankule
