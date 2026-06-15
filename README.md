@@ -153,7 +153,7 @@ Aspiring Data Analyst
 
 GitHub: https://github.com/gaganbawankule
 
-LinkedIn: (Add your LinkedIn profile link here)
+LinkedIn: https://www.linkedin.com/in/gagan-bawankule
 
 ---
 
